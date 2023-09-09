@@ -1,0 +1,15 @@
+E:\GeekBrains\DZ10.09.23\1qu\bin\Debug\net7.0\1qu.exe
+E:\GeekBrains\DZ10.09.23\1qu\bin\Debug\net7.0\1qu.deps.json
+E:\GeekBrains\DZ10.09.23\1qu\bin\Debug\net7.0\1qu.runtimeconfig.json
+E:\GeekBrains\DZ10.09.23\1qu\bin\Debug\net7.0\1qu.dll
+E:\GeekBrains\DZ10.09.23\1qu\bin\Debug\net7.0\1qu.pdb
+E:\GeekBrains\DZ10.09.23\1qu\obj\Debug\net7.0\1qu.csproj.AssemblyReference.cache
+E:\GeekBrains\DZ10.09.23\1qu\obj\Debug\net7.0\1qu.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\DZ10.09.23\1qu\obj\Debug\net7.0\1qu.AssemblyInfoInputs.cache
+E:\GeekBrains\DZ10.09.23\1qu\obj\Debug\net7.0\1qu.AssemblyInfo.cs
+E:\GeekBrains\DZ10.09.23\1qu\obj\Debug\net7.0\1qu.csproj.CoreCompileInputs.cache
+E:\GeekBrains\DZ10.09.23\1qu\obj\Debug\net7.0\1qu.dll
+E:\GeekBrains\DZ10.09.23\1qu\obj\Debug\net7.0\refint\1qu.dll
+E:\GeekBrains\DZ10.09.23\1qu\obj\Debug\net7.0\1qu.pdb
+E:\GeekBrains\DZ10.09.23\1qu\obj\Debug\net7.0\1qu.genruntimeconfig.cache
+E:\GeekBrains\DZ10.09.23\1qu\obj\Debug\net7.0\ref\1qu.dll

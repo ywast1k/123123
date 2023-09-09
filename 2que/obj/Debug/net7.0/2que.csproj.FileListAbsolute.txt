@@ -1,0 +1,15 @@
+E:\GeekBrains\DZ10.09.23\2que\bin\Debug\net7.0\2que.exe
+E:\GeekBrains\DZ10.09.23\2que\bin\Debug\net7.0\2que.deps.json
+E:\GeekBrains\DZ10.09.23\2que\bin\Debug\net7.0\2que.runtimeconfig.json
+E:\GeekBrains\DZ10.09.23\2que\bin\Debug\net7.0\2que.dll
+E:\GeekBrains\DZ10.09.23\2que\bin\Debug\net7.0\2que.pdb
+E:\GeekBrains\DZ10.09.23\2que\obj\Debug\net7.0\2que.csproj.AssemblyReference.cache
+E:\GeekBrains\DZ10.09.23\2que\obj\Debug\net7.0\2que.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\DZ10.09.23\2que\obj\Debug\net7.0\2que.AssemblyInfoInputs.cache
+E:\GeekBrains\DZ10.09.23\2que\obj\Debug\net7.0\2que.AssemblyInfo.cs
+E:\GeekBrains\DZ10.09.23\2que\obj\Debug\net7.0\2que.csproj.CoreCompileInputs.cache
+E:\GeekBrains\DZ10.09.23\2que\obj\Debug\net7.0\2que.dll
+E:\GeekBrains\DZ10.09.23\2que\obj\Debug\net7.0\refint\2que.dll
+E:\GeekBrains\DZ10.09.23\2que\obj\Debug\net7.0\2que.pdb
+E:\GeekBrains\DZ10.09.23\2que\obj\Debug\net7.0\2que.genruntimeconfig.cache
+E:\GeekBrains\DZ10.09.23\2que\obj\Debug\net7.0\ref\2que.dll
